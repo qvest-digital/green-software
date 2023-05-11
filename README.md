@@ -3,6 +3,8 @@
 🌳 "As tarent, we refer to Green Software as practices for the entire software development lifecycle that minimize energy consumption in order to keep the resulting emissions as low as possible.
 This includes measures such as measuring and offsetting the carbon footprint of software development staff and software systems, improving the efficiency of algorithms and resource use, and selecting appropriate cloud environments and software products that are designed, built, and delivered with low emissions." 🌴
 
+This is a curated list of resources for Green Software Practitioners.
+
 # Information
 
 * Book [101 Green Software](https://leanpub.com/green-software/)
