@@ -10,13 +10,13 @@ This includes measures such as measuring and offsetting the carbon footprint of 
 
 # Practices
 
-* [Understanding Green Software Development: A Conceptual Framework](https://ieeexplore.ieee.org/document/7030252)
+* [Understanding Green Software Development: A Conceptual Framework](https://ieeexplore.ieee.org/document/7030252) A paper proposing a framework for greener software development
 
 
 # Tools
 
-* [Web Site Carbon](https://www.websitecarbon.com/)
-* [Green Frame](https://greenframe.io/)
+* [Web Site Carbon](https://www.websitecarbon.com/) Estimates the carbon emmision for any website.
+* [Green Frame](https://greenframe.io/) "GreenFrame helps developers build low-carbon, energy-efficient web applications and reduce their environmental footprint, using a state-of-the-art platform based on real science."
 
 ---
 Collected, reviewed and curated with 💚 by tarent for the 🌍
