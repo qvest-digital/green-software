@@ -20,6 +20,7 @@ This is a curated list of resources for Green Software Practitioners.
 
 * [Web Site Carbon](https://www.websitecarbon.com/) Estimates the carbon emmision for any website.
 * [Green Frame](https://greenframe.io/) "GreenFrame helps developers build low-carbon, energy-efficient web applications and reduce their environmental footprint, using a state-of-the-art platform based on real science."
+* The [Open Source Climate (OS-C)](https://os-climate.org/) collaboration community builds tools and a data commons platform for climate change
 
 ---
 Collected, reviewed and curated with 💚 by tarent for the 🌍
