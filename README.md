@@ -10,6 +10,7 @@ This is a curated list of resources for Green Software Practitioners.
 * Book [101 Green Software](https://leanpub.com/green-software/)
 * Book [Green in Software Engineering](https://link.springer.com/book/10.1007/978-3-319-08581-4)
 * [Green Software Foundation](https://greensoftware.foundation/)
+* TED Talks on [Green Software Engineering](https://www.youtube.com/watch?v=nWFMvgQgnQ0&list=PLCD-oQLNPV4JWox969LeIhkHyJvUMoNvB)
 
 # Practices
 
